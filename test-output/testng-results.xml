@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-09T11:38:13 PDT" name="Suite" finished-at="2023-08-09T11:40:07 PDT" duration-ms="113869">
+    <groups>
+    </groups>
+    <test started-at="2023-08-09T11:38:13 PDT" name="Test" finished-at="2023-08-09T11:40:07 PDT" duration-ms="113869">
+      <class name="com.mentoringtests.qa.TutorilasNinjaSearchValidproduct">
+        <test-method signature="tnSearchWithvalidProduct()[pri:0, instance:com.mentoringtests.qa.TutorilasNinjaSearchValidproduct@c430e6c]" started-at="2023-08-09T11:39:46 PDT" name="tnSearchWithvalidProduct" finished-at="2023-08-09T11:40:07 PDT" duration-ms="20546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tnSearchWithvalidProduct -->
+      </class> <!-- com.mentoringtests.qa.TutorilasNinjaSearchValidproduct -->
+      <class name="com.mentoringtests.qa.TurorialsNinjaLogin">
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:21 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:38:27 PDT" duration-ms="6030" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sarakhalifa491@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Saraselenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:27 PDT" name="tearDown" finished-at="2023-08-09T11:38:27 PDT" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:27 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:38:33 PDT" duration-ms="5981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:33 PDT" name="tearDown" finished-at="2023-08-09T11:38:34 PDT" duration-ms="347" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:34 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:38:41 PDT" duration-ms="6745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:41 PDT" name="tearDown" finished-at="2023-08-09T11:38:41 PDT" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:41 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:38:52 PDT" duration-ms="10872" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda2@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:52 PDT" name="tearDown" finished-at="2023-08-09T11:38:52 PDT" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:52 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:38:57 PDT" duration-ms="5292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda3@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:57 PDT" name="tearDown" finished-at="2023-08-09T11:38:58 PDT" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:38:58 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:39:04 PDT" duration-ms="6395" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda4@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:04 PDT" name="tearDown" finished-at="2023-08-09T11:39:04 PDT" duration-ms="377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:04 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:39:10 PDT" duration-ms="5970" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:10 PDT" name="tearDown" finished-at="2023-08-09T11:39:11 PDT" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:11 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:39:17 PDT" duration-ms="6067" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda6@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:17 PDT" name="tearDown" finished-at="2023-08-09T11:39:17 PDT" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:17 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:39:23 PDT" duration-ms="5889" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda7@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:23 PDT" name="tearDown" finished-at="2023-08-09T11:39:24 PDT" duration-ms="334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:24 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:39:30 PDT" duration-ms="6185" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda8@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:30 PDT" name="tearDown" finished-at="2023-08-09T11:39:30 PDT" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:30 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:39:36 PDT" duration-ms="5852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda9@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:36 PDT" name="tearDown" finished-at="2023-08-09T11:39:36 PDT" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="loginWithvalidCredentials(java.lang.String,java.lang.String)[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:36 PDT" name="loginWithvalidCredentials" data-provider="getData" finished-at="2023-08-09T11:39:46 PDT" duration-ms="9230" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seleniumpanda10@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Selenium@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TurorialsNinjaLogin@4d0d9fe7]" started-at="2023-08-09T11:39:46 PDT" name="tearDown" finished-at="2023-08-09T11:39:46 PDT" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mentoringtests.qa.TurorialsNinjaLogin -->
+      <class name="com.mentoringtests.qa.TryThisTestingWebsiteDropDownmenu">
+        <test-method signature="dropDownmenu()[pri:0, instance:com.mentoringtests.qa.TryThisTestingWebsiteDropDownmenu@cecf639]" started-at="2023-08-09T11:38:13 PDT" name="dropDownmenu" finished-at="2023-08-09T11:38:20 PDT" duration-ms="6561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownmenu -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mentoringtests.qa.TryThisTestingWebsiteDropDownmenu@cecf639]" started-at="2023-08-09T11:38:20 PDT" name="tearDown" finished-at="2023-08-09T11:38:21 PDT" duration-ms="1490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mentoringtests.qa.TryThisTestingWebsiteDropDownmenu -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
